@@ -23,15 +23,12 @@ By the end of this course, you will have a firm understanding of all the fundame
 <LI>Learn about Kibana and Logstash to serve as an excellent starting point for building the Elastic search Stack
 <LI>Learning about ElasticSearch cluster administration 
 <LI>Run some more advanced DSL search queries.
-<LI>Learn the differences between Solr from Elastic Search. </LI></UL></DIV>
+<LI>Learn the differences between Solr from Elastic Search. </LI></UL></DIV>
 
 ## Instructions and Navigation
 ### Assumed Knowledge
-To fully benefit from the coverage included in this course, you will need:<br/>
 If you're a developer who wants to analyze and manipulate data, then this is the course for you. No previous knowledge of ElasticSearch 5.0 is required.
-### Technical Requirements
-This course has the following software requirements:<br/>
-..
+
 
 ## Related Products
 * [Mastering ElasticSearch [Video]](https://www.packtpub.com/big-data-and-business-intelligence/mastering-elasticsearch-video?utm_source=github&utm_medium=repository&utm_campaign=9781787127821)
